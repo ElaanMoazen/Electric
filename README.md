@@ -1,4 +1,4 @@
-# Electric
+# Electric - control the servo motor
 تصميم دائرة إلكترونية للذراع الآلية
 
 #  أجزاء الدائرة الكهربائية: 
